@@ -1,5 +1,6 @@
 #introductioon
 
 def introduction(name)
-  puts "Hi, my name is #{Ashley}."
+  puts "Hi, my name is #{name}."
+  phrase = "Ashley"
 end
